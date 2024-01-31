@@ -6,7 +6,7 @@
 
 //Console.WriteLine(str1 + str1);
 
-//int num1 = int.Parse(str1);
+//int num1 = int.Parse(str1); (Преобразование в целое число)
 //Console.WriteLine(num1 + num1);
 
 //Console.Write("Enter a number: ");
